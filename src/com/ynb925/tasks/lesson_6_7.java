@@ -1,4 +1,7 @@
 package com.ynb925.tasks;
+
+import java.util.Scanner;
+
 /**
  * Задание 6.7
  * Напишите класс, который принимает с клавиатуры целое положительное число и,
@@ -6,6 +9,16 @@ package com.ynb925.tasks;
  */
 public class lesson_6_7 {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите число : ");
+        int n = scanner.nextInt();
+        if (n >= 100) {
+            n--;
+            System.out.println(n);
 
+        } else {
+            System.out.println(n);
+
+        }
     }
 }
