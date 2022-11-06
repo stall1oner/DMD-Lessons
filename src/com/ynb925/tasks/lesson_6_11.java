@@ -15,9 +15,7 @@ public class lesson_6_11 {
         Scanner scanner2 = new Scanner(System.in);
         System.out.println("Введите число 2 : ");
         int b = scanner2.nextInt();
-        if (a == 0) {
-            System.out.println("Некорректно");
-        } else if (b == 0) {
+        if (a == 0 || b == 0) {
             System.out.println("Некорректно");
         } else if (a == b) {
             System.out.println("Один и тот же знак");
