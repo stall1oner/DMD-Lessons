@@ -7,7 +7,7 @@ import java.util.Scanner;
  * одно из следующих сообщений: Положительное, или Отрицательное, или Ноль, -в зависимости от значения числа.
  */
 
-public class lesson_6_6 {
+/*public class lesson_6_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");
@@ -22,5 +22,27 @@ public class lesson_6_6 {
         } else
             System.out.println("Ноль");
 
+    }
+}*/
+public class lesson_6_6 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите число : ");
+        int n = scanner.nextInt();
+        if (n > 0) {
+            System.out.println("Положительное");
+        } else {
+            //        System.out.println("Ошибка");
+        }
+        if (n < 0) {
+            System.out.println("Отрицательное");
+        } else
+            //          System.out.println("Ошибка");
+
+        if (n == 0) {
+            System.out.println("Ноль");
+        } else {
+            //        System.out.println("Ошибка");
+        }
     }
 }
