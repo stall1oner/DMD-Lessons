@@ -4,7 +4,6 @@
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/lesson_6_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/lesson_6_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/lesson_6_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/lesson_6_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <recent name="com.ynb925.tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.ynb925.tasks.lesson_6_6">
+  <component name="RunManager" selected="Application.lesson_6_11">
     <configuration name="com.ynb925.tasks.lesson_6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.lesson_6_6" />
       <module name="untitled" />
@@ -105,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.ynb925.tasks.lesson_6_6" />
-        <item itemvalue="Application.lesson_6_7" />
         <item itemvalue="Application.lesson_6_11" />
+        <item itemvalue="Application.lesson_6_7" />
+        <item itemvalue="Application.com.ynb925.tasks.lesson_6_6" />
         <item itemvalue="Application.lesson_6_6" />
       </list>
     </recent_temporary>
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667672937045</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1667756689500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667756689500</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
