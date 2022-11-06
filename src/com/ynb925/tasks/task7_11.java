@@ -9,14 +9,17 @@ import java.util.Scanner;
  */
 public class task7_11 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число:");
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        if (a > b || b > a) {
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
+        if (a > b ) {
             System.out.println(b + " " + a);
             System.out.println(a + " " + b);
-
+        }
+        if (b > a ){
+            System.out.println(a + " " + b);
+            System.out.println(b + " " + a);
         }
 
     }
