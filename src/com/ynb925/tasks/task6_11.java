@@ -7,7 +7,7 @@ import java.util.Scanner;
  * и тот же знак, а если разный, то на экран выводится сообщение Разные знаки.
  * Если же хотя бы одно из чисел равно О, выводится сообщение Некорректно.
  */
-public class lesson_6_11 {
+public class task6_11 {
     public static void main(String[] args) {
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("Введите число 1 : ");

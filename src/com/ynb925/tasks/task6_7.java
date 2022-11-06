@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Напишите класс, который принимает с клавиатуры целое положительное число и,
  * если оно как минимум трехзначное и положительное, уменьшает его на 1.
  */
-public class lesson_6_7 {
+public class task6_7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");

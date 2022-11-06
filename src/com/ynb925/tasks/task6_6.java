@@ -24,7 +24,7 @@ import java.util.Scanner;
 
     }
 }*/
-public class lesson_6_6 {
+public class task6_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");
