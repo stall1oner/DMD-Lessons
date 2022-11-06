@@ -31,18 +31,14 @@ public class lesson_6_6 {
         int n = scanner.nextInt();
         if (n > 0) {
             System.out.println("Положительное");
-        } else {
-            //        System.out.println("Ошибка");
         }
         if (n < 0) {
             System.out.println("Отрицательное");
-        } else
-            //          System.out.println("Ошибка");
+        }
 
         if (n == 0) {
             System.out.println("Ноль");
-        } else {
-            //        System.out.println("Ошибка");
         }
+
     }
 }
