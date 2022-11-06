@@ -13,19 +13,27 @@ public class task7_11 {
         System.out.println("Введите число:");
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        if (a > b ) {
+        if (a > b) {
             System.out.println(b + " " + a);
             System.out.println(a + " " + b);
-        }
-        if (b > a ){
+        } else {
             System.out.println(a + " " + b);
             System.out.println(b + " " + a);
         }
-
     }
-
 }
 
+/*
+                if (n1 > n2) {
+                System.out.println(n2 + " " + n1);
+                System.out.println(n1 + " " + n2);
+                } else {
+                System.out.println(n1 + " " + n2);
+                System.out.println(n2 + " " + n1);
+                }
+                }
+                }
+*/
 
 
 

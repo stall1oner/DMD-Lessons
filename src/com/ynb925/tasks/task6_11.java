@@ -1,6 +1,7 @@
 package com.ynb925.tasks;
 
 import java.util.Scanner;
+
 /**
  * Задание 6.11  Напишите класс, который принимает с клавиатуры два целых числа и,
  * если оба имеют одинаковый знак, на экран выводится сообщение Один
@@ -17,12 +18,26 @@ public class task6_11 {
         int b = scanner2.nextInt();
         if (a == 0 || b == 0) {
             System.out.println("Некорректно");
-        } else if (a == b) {
+        }
+        if (a == b) {
             System.out.println("Один и тот же знак");
-        }else {
+        } else {
             System.out.println("Разные знаки");
         }
 
     }
-
+}
+/*
+        //check if number is positive
+        if ((n1 > 0 && n2 > 0) || (n1 < 0 && n2 < 0)) {
+        System.out.println(" Tот же знак ");
         }
+        //check if number is negative
+        if ((n1 < 0 && n2 > 0) || (n1 > 0 && n2 < 0)) {
+        System.out.println(" Разные знаки ");
+        } //check if number is zero
+        if (n1 == 0 || n2 == 0) {
+        System.out.println(" Некорректно ");
+        }
+        }
+        }*/

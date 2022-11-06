@@ -42,3 +42,5 @@ public class task6_6 {
 
     }
 }
+
+

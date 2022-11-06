@@ -1,6 +1,7 @@
 package com.ynb925.tasks;
 
 import java.util.Scanner;
+
 /**
  * Задание 6.11.1 (моя задача)
  * Напишите класс, который принимает с клавиатуры одно целое число.
@@ -15,20 +16,21 @@ public class task6_11_1 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");
         int n = scanner.nextInt();
-        int a = (n % 2);
-        int b = (n % 3);
-        int c = (n % 4);
-        if (a == 0 ){
+
+
+        if (n % 2 == 0) {
             System.out.println("Делится на 2");
         }
-        if (b == 0){
+        if (n % 3 == 0) {
             System.out.println("Делится на 3");
         }
-        if (c == 0){
+        if (n % 4 == 0) {
             System.out.println("Делится на 4");
         }
+        if (n % 2 == 0 && n % 3 == 0 && n % 4 == 0) {
+            System.out.println("делиться на несколько этих чисел");
         }
-
-
     }
+}
+
 
