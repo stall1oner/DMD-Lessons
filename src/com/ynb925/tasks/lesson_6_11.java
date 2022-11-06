@@ -1,6 +1,7 @@
 package com.ynb925.tasks;
 
 import java.util.Scanner;
+
 /**
  * Задание 6.11  Напишите класс, который принимает с клавиатуры два целых числа и,
  * если оба имеют одинаковый знак, на экран выводится сообщение Один
@@ -21,11 +22,11 @@ public class lesson_6_11 {
             System.out.println("Некорректно");
         } else if (a == b) {
             System.out.println("Один и тот же знак");
-        }else {
+        } else {
             System.out.println("Разные знаки");
         }
 
     }
 
-        }
+}
 
