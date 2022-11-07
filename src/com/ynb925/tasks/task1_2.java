@@ -49,40 +49,40 @@ public class task1_2 {
                 System.out.println("12 Декабрь - 12");
                 break;
             case "январь":
-                System.out.println("01 Январь - 01");
+                System.out.println("01 январь - 01");
                 break;
             case "февраль":
-                System.out.println("02 Февраль - 02");
+                System.out.println("02 февраль - 02");
                 break;
             case "март":
-                System.out.println("03 Март - 03");
+                System.out.println("03 март - 03");
                 break;
             case "апрель":
-                System.out.println("04 Апрель - 04");
+                System.out.println("04 апрель - 04");
                 break;
             case "май":
-                System.out.println("05 Май - 05");
+                System.out.println("05 май - 05");
                 break;
             case "июнь":
-                System.out.println("06 Июнь - 06");
+                System.out.println("06 июнь - 06");
                 break;
             case "июль":
-                System.out.println("07 Июль - 07");
+                System.out.println("07 июль - 07");
                 break;
             case "август":
-                System.out.println("08 Август - 08");
+                System.out.println("08 август - 08");
                 break;
             case "сентябрь":
-                System.out.println("09 Сентябрь - 09");
+                System.out.println("09 сентябрь - 09");
                 break;
             case "октябрь":
-                System.out.println("10 Октябрь - 10");
+                System.out.println("10 октябрь - 10");
                 break;
             case "ноябрь":
-                System.out.println("11 Ноябрь - 11");
+                System.out.println("11 ноябрь - 11");
                 break;
             case "декабрь":
-                System.out.println("12 Декабрь - 12");
+                System.out.println("12 декабрь - 12");
                 break;
             default:
                 System.out.println("Наименование месяца введено не верно");
