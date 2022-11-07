@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/task1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/task1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/task1_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/Nastya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/Nastya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/switch_lessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/switch_lessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/task1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/task1_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ynb925.tasks" />
@@ -56,7 +56,7 @@
       <recent name="C:\Users\thest\IdeaProjects\untitled\src\com\dmddev\lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task1_2">
+  <component name="RunManager" selected="Application.task1_4">
     <configuration name="Nastya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.Nastya" />
       <module name="untitled" />
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task9_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.task9_14" />
+    <configuration name="task1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.task1_3" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task9_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.task9_5" />
+    <configuration name="task1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.task1_4" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task1_4" />
+        <item itemvalue="Application.task1_3" />
         <item itemvalue="Application.task1_2" />
         <item itemvalue="Application.Nastya" />
         <item itemvalue="Application.switch_lessons" />
-        <item itemvalue="Application.task9_14" />
-        <item itemvalue="Application.task9_5" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667778580279</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit">
+      <created>1667781413743</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667781413743</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit">
+      <created>1667781484108</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667781484108</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
