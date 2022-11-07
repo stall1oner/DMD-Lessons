@@ -1,13 +1,14 @@
-/*package com.ynb925.tasks;
+package com.dmddev.lessons;
 
 
 public class Nastya {
     public static void main(String[] args) {
-        string a = "Я";
-        string b = "тебя";
-        string c = "люблю";
+        String a = "Я ";
+        String b = "тебя ";
+        String c = "люблю ";
 
         System.out.println(a + b + c);
 
     }
-}*/
+}
+
