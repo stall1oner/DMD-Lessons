@@ -9,7 +9,7 @@ import java.util.Scanner;
  * экран соответствующее текстовое сообщение.
  */
 
-public class task9_14 {
+public class ifelse_task9_14 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");

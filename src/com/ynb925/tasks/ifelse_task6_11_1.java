@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Если оно делиться на 4 выведи "Делиться на 4".
  * Если число делиться на несколько этих чисел, выведи соответствующие надписи.
  */
-public class task6_11_1 {
+public class ifelse_task6_11_1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

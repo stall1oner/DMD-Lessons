@@ -9,7 +9,7 @@ import java.util.Scanner;
  * вывести слово Старт, а после окончания вывода чисел (тоже в отдельной строке)-слово Финиш.
  */
 
-public class task11_14 {
+public class while_task11_14 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

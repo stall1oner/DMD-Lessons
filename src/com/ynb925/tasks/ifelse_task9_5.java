@@ -9,7 +9,7 @@ import java.util.Scanner;
  * и так далее. Напишите класс, который принимает с клавиатуры номер квартиры и выводит на экран следующую информацию:
  * на каком этаже она расположе на, и какое место (слева, справа или в центре) она занимает на этом этаже.
  */
-public class task9_5 {
+public class ifelse_task9_5 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

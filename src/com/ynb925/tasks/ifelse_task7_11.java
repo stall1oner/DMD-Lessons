@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Класс должен вывести на экран эти числа в порядке возрастания -в одной строке,
  * а в другой -их же, но в порядке убывания.
  */
-public class task7_11 {
+public class ifelse_task7_11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число:");

@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Перед началом вывода на экран (в отдельной строке) следует вывести слово Старт,
  * а после окончания вывода чисел (тоже в отдельной строке)-слово Финиш.
  */
-public class task_11_12 {
+public class while_task_11_12 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число 1:");

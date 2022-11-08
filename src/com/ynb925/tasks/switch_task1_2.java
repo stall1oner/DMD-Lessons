@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Выводимый на экран текст должен быть примерно таким: "Номер месяца наименование месяца - номер месяца".
  * Если наименование месяца введено не верно, должно быть выведено на экран соответствующее сообщение.
  */
-public class task1_2 {
+public class switch_task1_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Задайте наименование месяца: ");

@@ -9,7 +9,7 @@ import java.util.Scanner;
  * В соответствии с результатом проверки надо вывести на экран соответствующее текстовое сообщение.
  * Не следует выводить на экран ни какого сообщения, если число составлено из одинаковых цифр.
  */
-public class task8_15 {
+public class ifelse_task8_15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");

@@ -24,7 +24,7 @@ import java.util.Scanner;
 
     }
 }*/
-public class task6_6 {
+public class ifelse_task6_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число : ");
