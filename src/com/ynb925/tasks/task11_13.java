@@ -17,15 +17,14 @@ public class task11_13 {
         int value2 = scanner.nextInt();
 
         System.out.println("Старт");
-        do {
-            System.out.println(value2);
-            value2--;
-        } while (value1 < value2);
-
-        do {
+        while (value1 > value2) {
             System.out.println(value1);
             value1--;
-        } while (value1 > value2);
+        }
+        while (value1 < value2) {
+            System.out.println(value2);
+            value2--;
+        }
 
         if (value2 == value1){
             System.out.println(value2);
