@@ -11,17 +11,15 @@ import java.util.Scanner;
 public class while_task15_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+
         System.out.println("Введите число :");
-        int value1 = scanner.nextInt();
-        int value2 = 0;
-        int rightValue = 999;
+        int inNum = scanner.nextInt();
+        int count = 0;
 
-        if (value1 != rightValue) {
-            do {
-                value2++;
-                scanner.nextInt();
-            } while (value1 == rightValue);
-
-        }else System.out.println(value2);
+        do {
+            count++;
+        } while ((inNum = scanner.nextInt()) != 999);
+        System.out.println(count);
     }
 }

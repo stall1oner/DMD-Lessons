@@ -39,13 +39,10 @@ public class switch_task1_4 {
                     System.out.println(9);
                 case 10:
                     System.out.println(10);
+                default:
                     System.out.println("Много");
-                    break;
+
             }
-        } else if (a > 10) {
-            System.out.println("Много");
-        }else{
-            System.out.println("Мало");
         }
     }
 }

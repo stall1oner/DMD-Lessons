@@ -15,6 +15,7 @@ public class while_task_11_12 {
         System.out.println("Введите число 2:");
         int value2 = scanner.nextInt();
 
+
         System.out.println("Старт");
         while (value1 < value2) {
             System.out.println(value1 + " ");

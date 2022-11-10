@@ -12,9 +12,9 @@ public class while_task11_20 {
 
         System.out.println("Старт");
 
-        while (value <= 999) {
+        while (value <= 999 ) {
             if (value % 80 == 45)
-                System.out.println(value);
+                System.out.print(value + " ");
             value += 1;
         }
         System.out.println("Финиш");

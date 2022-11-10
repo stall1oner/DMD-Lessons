@@ -7,8 +7,8 @@ public class while_task11_17 {
     public static void main(String[] args) {
         int value = 97;
         do {
-            value += 10;
-            System.out.println(value);
+            value += 10;  // value = value + 10;
+            System.out.print(value + " ");
         }while (value <= 987);
 
     }

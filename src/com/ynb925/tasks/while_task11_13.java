@@ -18,16 +18,16 @@ public class while_task11_13 {
 
         System.out.println("Старт");
         while (value1 > value2) {
-            System.out.println(value1);
+            System.out.print(value1 + " ");
             value1--;
         }
         while (value1 < value2) {
-            System.out.println(value2);
+            System.out.print(value2 + " ");
             value2--;
         }
 
-        if (value2 == value1){
-            System.out.println(value2);
+        if (value2 == value1) {
+            System.out.print(value2 + " ");
         }
         System.out.println("Финиш");
 
