@@ -16,12 +16,12 @@ public class while_task15_5 {
         int value2 = 0;
         int rightValue = 999;
 
+        if (value1 != rightValue) {
+            do {
+                value2++;
+                scanner.nextInt();
+            } while (value1 == rightValue);
 
-        while(value1 == rightValue) {
-            value2++;
-            scanner.nextInt();
-        }
-        System.out.println(value2);
-
+        }else System.out.println(value2);
     }
 }
