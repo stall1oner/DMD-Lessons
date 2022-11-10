@@ -16,7 +16,7 @@ public class while_task15_8 {
 
         while (sum != 150) {
             int n = scanner.nextInt();
-            sum = sum + n;
+            sum = sum + n;                       // алгоритм подсмотрел тут https://www.scaler.com/topics/add-two-numbers-in-java/
             count++;
         }
         System.out.println("Количество введенных значений" + " " + count);
