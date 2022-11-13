@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_noName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="C:\Users\thest\IdeaProjects\untitled\src\com\dmddev\lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.while_task15_noName">
+  <component name="RunManager" selected="Application.while_task15_12">
     <configuration name="while_task15_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_task15_12" />
       <module name="untitled" />
@@ -125,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.while_task15_noName" />
         <item itemvalue="Application.while_task15_12" />
+        <item itemvalue="Application.while_task15_noName" />
         <item itemvalue="Application.while_task15_9" />
         <item itemvalue="Application.while_task15_8" />
         <item itemvalue="Application.while_task15_7" />
@@ -387,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668114283662</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="commit">
+      <created>1668358394939</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1668358394939</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

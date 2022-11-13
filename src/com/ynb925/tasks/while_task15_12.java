@@ -11,20 +11,16 @@ public class while_task15_12 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число:");
-        int valueSC = scanner.nextInt();
+        int valueSC = 0;
         int sumValue = 0;
         int tempValue = 0;
 
-        if (valueSC != tempValue){
-            do{
-                    tempValue = 0;
-                    valueSC = scanner.nextInt();
-                    tempValue = tempValue + valueSC;
-                    sumValue = sumValue + tempValue;
+        while ((valueSC = scanner.nextInt()) != tempValue) {
+            tempValue = valueSC;
+            sumValue = sumValue + valueSC;
 
-            }while (valueSC != tempValue);
         }
-
+        System.out.println(sumValue);
         }
 
     }
