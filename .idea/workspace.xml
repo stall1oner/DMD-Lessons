@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_lesson6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,53 +57,56 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\thest\IdeaProjects\untitled\src\com\dmddev\lessons" />
     </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="year" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.while_task15_29">
-    <configuration name="ForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.ForExample" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dmdev_lesson6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dmdev_lesson6" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dmdev_task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dmdev_task4" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.while_task11_13">
     <configuration name="dmdev_task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dmdev_task5" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dmddev.lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dmdev_task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dmdev_task6" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmddev.lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="for_task11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_12" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ynb925.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="while_task11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_task11_13" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ynb925.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.while_task15_29" />
+        <item itemvalue="Application.while_task11_13" />
+        <item itemvalue="Application.for_task11_12" />
+        <item itemvalue="Application.dmdev_task6" />
         <item itemvalue="Application.dmdev_task5" />
-        <item itemvalue="Application.dmdev_task4" />
-        <item itemvalue="Application.ForExample" />
-        <item itemvalue="Application.dmdev_lesson6" />
+        <item itemvalue="Application.while_task15_29" />
       </list>
     </recent_temporary>
   </component>

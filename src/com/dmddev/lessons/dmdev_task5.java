@@ -14,6 +14,9 @@ public class dmdev_task5 {
         int result2 = sumOfDigits(input);
         System.out.println(result2);
 
+        int result3 = sumForDigits(input);
+        System.out.println(result3);
+
 
     }
 
@@ -39,5 +42,15 @@ public class dmdev_task5 {
         }
         return sum;
 
+    }
+
+
+    public static int sumForDigits(int input) {
+        int currentValue = input;
+        int result = 0;
+        for (currentValue = input; currentValue != 0; currentValue /= 10) {
+            result += currentValue % 10;
+        }
+        return  result;
     }
 }
