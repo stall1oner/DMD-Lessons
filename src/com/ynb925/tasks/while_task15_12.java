@@ -21,6 +21,24 @@ public class while_task15_12 {
 
         }
         System.out.println(sumValue);
-        }
-
     }
+}
+
+/*
+    }
+    Scanner scanner = new Scanner(System.in);
+        System.out.println(" enter Num: ");
+                int scanNum;
+                int old = scanner.nextInt();
+                int res = old;
+
+
+                while ((scanNum = scanner.nextInt()) != old) {
+
+                res = res + scanNum;
+                old = scanNum;
+                }
+                System.out.println(res);
+                }
+                }
+                */

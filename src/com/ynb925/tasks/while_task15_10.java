@@ -8,9 +8,22 @@ import java.util.Scanner;
  * пока значение переменной Х остается положительным.
  */
 
-public class while_task15_noName {
+public class while_task15_10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println(" enter Num: ");
+        int scanNum = scanner.nextInt();
+        int xNum = scanNum;
+
+        while (xNum > 0) {
+            xNum = xNum - scanner.nextInt();
+            System.out.println(xNum);
+        }
+        System.out.println(" finish ");
+    }
+}
+
+ /*       Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число:");
         int x = scanner.nextInt();
         int value = 0;
@@ -22,8 +35,10 @@ public class while_task15_noName {
             x += 0;
         }
         System.out.println(x);
-    }
+    }*/
 
-}
+
+/*
+        */
 
 
