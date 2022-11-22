@@ -28,7 +28,7 @@ public class for_task11_12 {
         }
         if (value1 == value2) {
             System.out.println("Одинаковые числа");
-            System.out.println("Финиш");
         }
+        System.out.println("Финиш");
     }
 }

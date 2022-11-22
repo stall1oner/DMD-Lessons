@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.while_task11_13">
+  <component name="RunManager" selected="Application.for_task11_13">
     <configuration name="dmdev_task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dmdev_task5" />
       <module name="untitled" />
@@ -101,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="for_task11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_13" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ynb925.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="while_task11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_task11_13" />
       <module name="untitled" />
@@ -114,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="while_task15_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_task15_29" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ynb925.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.while_task11_13" />
+        <item itemvalue="Application.for_task11_13" />
         <item itemvalue="Application.for_task11_12" />
+        <item itemvalue="Application.while_task11_13" />
         <item itemvalue="Application.dmdev_task6" />
         <item itemvalue="Application.dmdev_task5" />
-        <item itemvalue="Application.while_task15_29" />
       </list>
     </recent_temporary>
   </component>
