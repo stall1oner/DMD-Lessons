@@ -58,7 +58,7 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.for_task11_15">
+  <component name="RunManager" selected="Application.for_task11_17">
     <configuration name="for_task11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_12" />
       <module name="untitled" />
@@ -111,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="while_task11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_task11_13" />
+    <configuration name="for_task11_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_17" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.for_task11_17" />
         <item itemvalue="Application.for_task11_15" />
         <item itemvalue="Application.for_task11_14" />
         <item itemvalue="Application.for_task11_13" />
         <item itemvalue="Application.for_task11_12" />
-        <item itemvalue="Application.while_task11_13" />
       </list>
     </recent_temporary>
   </component>
