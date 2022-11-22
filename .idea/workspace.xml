@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +59,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.for_task12_1">
-    <configuration name="for_task11_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_20" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ynb925.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="for_task11_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_23" />
       <module name="untitled" />
@@ -125,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="for_task12_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task12_2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ynb925.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.for_task12_1" />
+        <item itemvalue="Application.for_task12_2" />
         <item itemvalue="Application.for_task11_27" />
         <item itemvalue="Application.for_task11_24" />
         <item itemvalue="Application.for_task11_23" />
-        <item itemvalue="Application.for_task11_20" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669150537792</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="commit">
+      <created>1669151858713</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1669151858713</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
