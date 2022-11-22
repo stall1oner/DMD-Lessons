@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.for_task11_27">
+  <component name="RunManager" selected="Application.for_task12_1">
     <configuration name="for_task11_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_20" />
       <module name="untitled" />
@@ -112,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="while_task11_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_task11_20" />
+    <configuration name="for_task12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task12_1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.for_task12_1" />
         <item itemvalue="Application.for_task11_27" />
         <item itemvalue="Application.for_task11_24" />
         <item itemvalue="Application.for_task11_23" />
         <item itemvalue="Application.for_task11_20" />
-        <item itemvalue="Application.while_task11_20" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669131936326</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="commit">
+      <created>1669150537792</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1669150537792</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
