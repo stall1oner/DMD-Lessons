@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +58,9 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.for_task12_5">
-    <configuration name="for_task11_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task11_27" />
+  <component name="RunManager" selected="Application.for_task12_10">
+    <configuration name="for_task12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task12_1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="for_task12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task12_1" />
+    <configuration name="for_task12_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_task12_10" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.for_task12_10" />
         <item itemvalue="Application.for_task12_5" />
         <item itemvalue="Application.for_task12_4" />
         <item itemvalue="Application.for_task12_1" />
         <item itemvalue="Application.for_task12_2" />
-        <item itemvalue="Application.for_task11_27" />
       </list>
     </recent_temporary>
   </component>
@@ -144,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00001" summary="commit">
-      <created>1667671801873</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667671801873</updated>
     </task>
     <task id="LOCAL-00002" summary="commit">
       <created>1667671896320</created>
@@ -488,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669154491614</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="commit">
+      <created>1669156984853</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1669156984853</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,16 +504,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_5.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
