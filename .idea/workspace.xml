@@ -2,11 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/Lesson7_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/RecursionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dv_task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/dv_task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/ArrayExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/taskArray/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/taskArray/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/taskArray/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/taskArray/task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/Lesson7_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/Lesson7_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task11_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task11_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task12_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task12_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task12_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task12_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/for_task12_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/for_tasks/for_task12_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task6_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task6_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task6_11_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task6_11_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task6_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task6_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task6_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task6_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task7_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task7_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task8_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task8_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task9_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task9_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/ifelse_task9_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/if_else_tasks/ifelse_task9_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_task1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_tasks/switch_task1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_tasks/switch_task1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_task1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_tasks/switch_task1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_task9_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/switch_tasks/switch_task9_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task11_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task11_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task11_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task11_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task11_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task11_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task11_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task11_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task11_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task11_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task11_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task11_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task15_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task15_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/while_task_11_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/while_task_11_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +107,9 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecursionExample">
-    <configuration name="RecursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.RecursionExample" />
+  <component name="RunManager" selected="Application.task4">
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.ArrayExample2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dv_task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dv_task3" />
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.taskArray.task1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.taskArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dv_task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dv_task4" />
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.taskArray.task2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.taskArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dv_task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dv_task5" />
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.taskArray.task3" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.taskArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dvtask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.dvtask2" />
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.taskArray.task4" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.taskArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecursionExample" />
-        <item itemvalue="Application.dv_task5" />
-        <item itemvalue="Application.dv_task4" />
-        <item itemvalue="Application.dv_task3" />
-        <item itemvalue="Application.dvtask2" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.ArrayExample2" />
       </list>
     </recent_temporary>
   </component>
