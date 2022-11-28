@@ -74,7 +74,7 @@
   <component name="RunManager" selected="Application.alishev_array_lesson">
     <configuration name="alishev_array_lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.alishev_array_lesson" />
-      <module name="untitled" />
+      <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dmddev.lessons.*" />
@@ -87,7 +87,7 @@
     </configuration>
     <configuration name="array_task18_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.array_task18_12" />
-      <module name="untitled" />
+      <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
@@ -100,7 +100,7 @@
     </configuration>
     <configuration name="array_task_18_12tooMuchMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.array_task_18_12tooMuchMethods" />
-      <module name="untitled" />
+      <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
@@ -113,7 +113,7 @@
     </configuration>
     <configuration name="for_task12_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.for_tasks.for_task12_10" />
-      <module name="untitled" />
+      <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ynb925.tasks.for_tasks.*" />
@@ -126,7 +126,7 @@
     </configuration>
     <configuration name="tst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.tst" />
-      <module name="untitled" />
+      <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dmddev.lessons.*" />
