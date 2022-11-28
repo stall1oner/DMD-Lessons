@@ -34,3 +34,21 @@ public class for_task12_10 {
         }
     }
 }
+
+
+/*
+    Scanner scanner = new Scanner(System.in);
+        System.out.println("enter num q-ty students: ");
+                int numStudents = scanner.nextInt();
+
+                double countQuality = 0;
+
+                for (int i = 0; i < numStudents; i++) {
+        System.out.println(i + 1 + " enter num Student Quality :  ");
+        int numStudentQuality = scanner.nextInt();
+        countQuality = countQuality + numStudentQuality;
+        }
+        if (countQuality / numStudents < 4)
+        System.out.println("more half students is fail");
+        }
+        }*/

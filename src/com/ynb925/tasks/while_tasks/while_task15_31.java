@@ -23,3 +23,16 @@ public class while_task15_31 {
         }
     }
 }
+
+/*    int scan;
+    int countIter = 0;
+
+        while (countIter < 5) {
+        scan = scanner.nextInt();
+        if (scan % 2 == 0) {
+        countIter++;
+        }
+        }
+        System.out.println("even nums is < 5 times");
+        }
+        }*/

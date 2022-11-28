@@ -22,6 +22,7 @@ public class for_task11_23 {
             valueProgress +=4;
             System.out.print(valueProgress + " ");
         }
+        System.out.println();
         System.out.println("Финиш");
 
         }

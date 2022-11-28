@@ -22,6 +22,6 @@ public class for_task12_4 {
             }
             tempNum = inNum;
         }
-        System.out.println(count);
+        System.out.println(count-1);
     }
 }

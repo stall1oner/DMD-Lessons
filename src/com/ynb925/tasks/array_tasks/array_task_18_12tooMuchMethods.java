@@ -9,9 +9,10 @@ import java.util.Scanner;
  * вывести на экран значения массива в одной строке, начиная с «начала» массива (с первой ячейки).
  */
 
-public class array_task_18_12 {
+public class array_task_18_12tooMuchMethods {
     public static void main(String[] args) {
         random();
+        System.out.println(random());
 
 
     }
@@ -40,6 +41,7 @@ public class array_task_18_12 {
         int max = 100;
         int diff = max - min;
         Random random = new Random();
+       // return random.nextInt(diff + 1);
         return random.nextInt(diff + 1);
     }
 

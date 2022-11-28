@@ -23,6 +23,7 @@ public class for_task11_15 {
             }
             System.out.print(i + " ");
         }
+        System.out.println();
         System.out.println("Финиш");
     }
 }
