@@ -6,8 +6,7 @@ import java.util.Random;
 
 public class tst {
     public static void main(String[] args) {
-
-
+        System.out.println();
         int min = 100;
         int max = 200;
         int diff = max - min;
