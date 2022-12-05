@@ -1,4 +1,4 @@
-package com.lessons;
+package com.javarush.tasks.lessons;
 /*Музей древностей.
 Твоя задача — спроектировать класс Artifact.
 

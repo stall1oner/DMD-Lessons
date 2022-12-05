@@ -1,4 +1,4 @@
-package com.lessons;
+package com.javarush.tasks.lessons;
 
 import java.util.Scanner;
 

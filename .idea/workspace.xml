@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/lessons/Artifact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lessons/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task04/task0428/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/tasks/task0413/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/tasks/task0418/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/tasks/task0425/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/tasks/task0427/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task03/task0322/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task18_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task18_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lessons/Artifact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/Artifact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lessons/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +66,13 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.User">
-    <configuration name="Array_task18_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task18_17" />
+  <component name="RunManager" selected="Application.com.javarush.task.jdk13.task04.task0428.Solution">
+    <configuration name="com.javarush.task.jdk13.task04.task0413.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task04.task0413.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task04.task0413.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Artifact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lessons.Artifact" />
+    <configuration name="com.javarush.task.jdk13.task04.task0418.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task04.task0418.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lessons.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task04.task0418.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task03.task0322.Solution" />
+    <configuration name="com.javarush.task.jdk13.task04.task0425.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task04.task0425.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.jdk13.task03.task0322.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task04.task0425.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lessons.User" />
+    <configuration name="com.javarush.task.jdk13.task04.task0427.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task04.task0427.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lessons.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task04.task0427.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.taskArray.t" />
+    <configuration name="com.javarush.task.jdk13.task04.task0428.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task04.task0428.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lessons.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task04.task0428.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.User" />
-        <item itemvalue="Application.Artifact" />
-        <item itemvalue="Application.t" />
-        <item itemvalue="Application.Array_task18_17" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.com.javarush.task.jdk13.task04.task0428.Solution" />
+        <item itemvalue="Application.com.javarush.task.jdk13.task04.task0427.Solution" />
+        <item itemvalue="Application.com.javarush.task.jdk13.task04.task0425.Solution" />
+        <item itemvalue="Application.com.javarush.task.jdk13.task04.task0418.Solution" />
+        <item itemvalue="Application.com.javarush.task.jdk13.task04.task0413.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00005" summary="commit">
-      <created>1667672937045</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1667672937045</updated>
     </task>
     <task id="LOCAL-00006" summary="commit">
       <created>1667756689500</created>
@@ -490,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670025843662</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="commit">
+      <created>1670112242557</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1670112242557</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
