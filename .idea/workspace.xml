@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/While_taskSpecial_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/ArrayExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/lesson7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Sol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0511/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task04/task0428/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task04/task0442/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/Artifact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0413/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0418/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0425/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0427/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +78,13 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While_taskSpecial_1">
-    <configuration name="Array_task18_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task18_18" />
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task05.task0511.Solution">
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.com.dmdev.ArrayExample2" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.com.dmdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_task15_00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_tasks.While_task15_00" />
+    <configuration name="Sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task06.task0634.Sol" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ynb925.tasks.while_tasks.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task06.task0634.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_taskSpecial_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.while_tasks.While_taskSpecial_1" />
+    <configuration name="com.javarush.task.pro.task05.task0511.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task05.task0511.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ynb925.tasks.while_tasks.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task05.task0511.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.jdk13.task04.task0442.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task04.task0442.Solution" />
+    <configuration name="lesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.com.dmdev.lesson7" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.jdk13.task04.task0442.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.com.dmdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.tasks.lessons.test" />
+    <configuration name="sss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task06.task0634.sss" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.tasks.lessons.*" />
+          <option name="PATTERN" value="com.javarush.task.jdk13.task06.task0634.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.While_taskSpecial_1" />
-        <item itemvalue="Application.While_task15_00" />
-        <item itemvalue="Application.Array_task18_18" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.com.javarush.task.jdk13.task04.task0442.Solution" />
+        <item itemvalue="Application.com.javarush.task.pro.task05.task0511.Solution" />
+        <item itemvalue="Application.Sol" />
+        <item itemvalue="Application.sss" />
+        <item itemvalue="Application.ArrayExample2" />
+        <item itemvalue="Application.lesson7" />
       </list>
     </recent_temporary>
   </component>
@@ -147,13 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00009" summary="commit">
-      <created>1667757917549</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1667757917549</updated>
     </task>
     <task id="LOCAL-00010" summary="commit">
       <created>1667759246255</created>
@@ -491,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670371661000</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="commit">
+      <created>1670867075947</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1670867075947</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,11 +539,20 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/ynb925/tasks/while_tasks/While_taskSpecial_1.java</url>
           <line>5</line>
-          <properties class="com.ynb925.tasks.while_tasks.While_taskSpecial_1" method="main">
+          <properties class="com.ynb925.tasks.while_tasks.While_taskSpecial_1">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Sol.java</url>
+          <line>1</line>
+          <properties class="com.javarush.task.jdk13.task06.task0634.sss">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
