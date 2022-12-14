@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/ArrayExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/lesson7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Sol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0511/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0516/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0517/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0519/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task04/task0428/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task04/task0442/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/Artifact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/lessons/test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0413/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0418/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0425/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/tasks/task0427/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +69,13 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task05.task0511.Solution">
-    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.com.dmdev.ArrayExample2" />
+  <component name="RunManager" selected="Application.Array_task19_16">
+    <configuration name="Array_task19_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_13" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.com.dmdev.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task06.task0634.Sol" />
+    <configuration name="Array_task19_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_16" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.jdk13.task06.task0634.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task05.task0511.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task05.task0511.Solution" />
+    <configuration name="Array_task19_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_17" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task05.task0511.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.com.dmdev.lesson7" />
+    <configuration name="Array_task19_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_7" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmddev.lessons.com.dmdev.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task06.task0634.sss" />
+    <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.tes" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.jdk13.task06.task0634.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.javarush.task.pro.task05.task0511.Solution" />
-        <item itemvalue="Application.Sol" />
-        <item itemvalue="Application.sss" />
-        <item itemvalue="Application.ArrayExample2" />
-        <item itemvalue="Application.lesson7" />
+        <item itemvalue="Application.Array_task19_17" />
+        <item itemvalue="Application.tes" />
+        <item itemvalue="Application.Array_task19_16" />
+        <item itemvalue="Application.Array_task19_13" />
+        <item itemvalue="Application.Array_task19_7" />
       </list>
     </recent_temporary>
   </component>
@@ -162,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00010" summary="commit">
-      <created>1667759246255</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1667759246255</updated>
     </task>
     <task id="LOCAL-00011" summary="commit">
       <created>1667759890707</created>
@@ -506,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670867075947</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="commit">
+      <created>1670975932766</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1670975932766</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
