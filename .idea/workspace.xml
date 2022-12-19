@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array_task19_22">
+  <component name="RunManager" selected="Application.Array_task19_23">
     <configuration name="Array_task19_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_17" />
       <module name="JavaStudy" />
@@ -115,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.tes" />
+    <configuration name="Array_task19_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_23" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_task19_23" />
         <item itemvalue="Application.Array_task19_22" />
         <item itemvalue="Application.Array_task19_20" />
         <item itemvalue="Application.Array_task19_18" />
         <item itemvalue="Application.Array_task19_17" />
-        <item itemvalue="Application.tes" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00013" summary="commit">
-      <created>1667762071385</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1667762071385</updated>
     </task>
     <task id="LOCAL-00014" summary="commit">
       <created>1667762471806</created>
@@ -490,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671423904567</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="commit">
+      <created>1671425230880</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1671425230880</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
