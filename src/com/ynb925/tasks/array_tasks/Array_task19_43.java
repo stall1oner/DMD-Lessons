@@ -1,5 +1,7 @@
 package com.ynb925.tasks.array_tasks;
 
+import java.util.Arrays;
+
 /**
  * Задание 19.43 Подгорит!
  * Напишите метод, который получает в качестве параметров два упорядоченных по возрастанию массива и возвращает
@@ -18,8 +20,23 @@ public class Array_task19_43 {
     public static void arrayMerger(int[] firstArray, int[] secondArray) {
         int[] tempArray = new int[firstArray.length+secondArray.length];
 
-        for (int i = 0; i < tempArray.length; i++) {
+        for (int i = 0; i < firstArray.length; i++) {
         tempArray[i] = firstArray[i];
+        }
+
+        for (int i = secondArray.length; i > 0; i--) {
+            tempArray[firstArray.length+i-1] = secondArray[i-1];
+        }
+
+        Arrays.sort(tempArray);
+
+        System.out.print(tempArray[0] + " ");
+        for (int i = 1; i < tempArray.length; i++) {
+            if (tempArray[i] > tempArray[i-1]){
+                System.out.print(tempArray[i] + " ");
+
+            }
+
         }
     }
 }
