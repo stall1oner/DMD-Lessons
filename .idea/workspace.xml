@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ynb925/tasks/array_tasks/Array_task19_43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +69,9 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array_task19_29">
-    <configuration name="Array_task19_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_22" />
+  <component name="RunManager" selected="Application.Array_task19_41">
+    <configuration name="Array_task19_36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_36" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_task19_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_23" />
+    <configuration name="Array_task19_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_37" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_task19_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_24" />
+    <configuration name="Array_task19_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_39" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_task19_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_27" />
+    <configuration name="Array_task19_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_40" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_task19_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_29" />
+    <configuration name="Array_task19_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_41" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array_task19_29" />
-        <item itemvalue="Application.Array_task19_27" />
-        <item itemvalue="Application.Array_task19_24" />
-        <item itemvalue="Application.Array_task19_23" />
-        <item itemvalue="Application.Array_task19_22" />
+        <item itemvalue="Application.Array_task19_41" />
+        <item itemvalue="Application.Array_task19_39" />
+        <item itemvalue="Application.Array_task19_40" />
+        <item itemvalue="Application.Array_task19_37" />
+        <item itemvalue="Application.Array_task19_36" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00016" summary="commit">
-      <created>1667776350935</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1667776350935</updated>
     </task>
     <task id="LOCAL-00017" summary="commit">
       <created>1667777248276</created>
@@ -489,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671428375002</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="commit">
+      <created>1671428855022</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1671428855022</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
