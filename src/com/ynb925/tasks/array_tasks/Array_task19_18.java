@@ -32,3 +32,23 @@ public class Array_task19_18 {
 
 
 }
+
+/*    int[] arrSize = createArr(10, 100);
+
+    printArr(arrSize);
+        System.out.println(mirrorArray(arrSize));
+
+                }
+
+public static boolean mirrorArray(int[] array) {
+        for (int i = 1; i < array.length; i++) {
+        if (array[i] <= array[i - 1]) {
+        //   System.out.print("false");
+        return false;
+        }
+        }
+        //  System.out.println("true");
+        return true;
+        }
+        }
+        */

@@ -22,3 +22,18 @@ public class Array_task19_36 {
 
     }
 }
+
+/*
+
+    public static int biggestValue(int[] array) {
+        int bigValue = array[0];
+
+        for (int j : array) {
+            if (bigValue < j) {
+                bigValue = j;
+            }
+        }
+        return bigValue;
+    }
+}
+*/
