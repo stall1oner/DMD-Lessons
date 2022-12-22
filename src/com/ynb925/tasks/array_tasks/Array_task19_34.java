@@ -24,3 +24,31 @@ public class Array_task19_34 {
         System.out.println(answer);
     }
 }
+
+
+/*
+    int[] array = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        System.out.println(arrayBigindex(array));
+                }
+
+public static int arrayBigindex(int[] array) {
+
+        int Sum = 0;
+        int middleSum;
+
+        for (int j : array) {
+        Sum += j;
+        }
+        middleSum = Sum / array.length;
+
+        int countCell = 0;
+        for (int j : array) {
+        if (j > middleSum) {
+        countCell++;
+        }
+        }
+        return countCell;
+        }
+        }
+
+        */

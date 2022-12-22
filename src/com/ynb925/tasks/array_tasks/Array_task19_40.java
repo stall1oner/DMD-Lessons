@@ -23,3 +23,21 @@ public class Array_task19_40 {
         }
     }
 }
+
+
+/*
+    public static void main(String[] args) {
+        int[] arr = new int[]{1, 3, 6, 2, 7};
+        System.out.println(Arrays.toString(arrReWrite(arr)));
+    }
+
+    public static int[] arrReWrite(int[] array) {
+        int[] arraynew = new int[array.length];
+        for (int i = 0, j = array.length - 1; i < array.length; i++, j--) {
+            arraynew[i] = array[j];
+        }
+        return arraynew;
+    }
+}
+*/
+

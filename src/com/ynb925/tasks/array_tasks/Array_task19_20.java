@@ -30,3 +30,27 @@ public class Array_task19_20 {
         if (checkSum == 0) System.out.println(false);
     }
 }
+
+
+/*
+    //  int[] arrSize = createArr(10, 30);
+
+    int[] arrSize = {1, 2, 3, 4, 5, 6, 2, 8, 9, 11};
+
+    printArr(arrSize);
+        System.out.println(equalNumArr(arrSize));
+                }
+
+public static boolean equalNumArr(int[] array) {
+
+        for (int i = 0; i < array.length; i++) {    //  0
+            for (int j = i + 1; j > array.length; j++) {  // 1
+        if (array[i] == array[j]) {
+        return true;
+        }
+        }
+        }
+        return false;
+        }
+        }
+        */
