@@ -10,7 +10,7 @@ public class Array_task19_48_macos {
         int[] firstArray = {1, 4, 3, 2};
         int[] secondArray = {5, 8, 1, 6, 4, 2, 9, 3};
 
-        int[] thirdArray = {5, 1, 8, 3, 99,9};
+        int[] thirdArray = {5, 1, 8, 3, 99};
         int[] fourthArray = {1, 2, 3};
         System.out.println(isValuesSimilarInArray(firstArray, secondArray));
         System.out.println(isValuesSimilarInArray(thirdArray, fourthArray));
