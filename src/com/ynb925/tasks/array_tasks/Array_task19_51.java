@@ -13,7 +13,29 @@ package com.ynb925.tasks.array_tasks;
  */
 public class Array_task19_51 {
     public static void main(String[] args) {
-        int[] firstArray = {1, 2, 3, 4};
+
+        int[] arr1 = new int[]{1, 2, 3, 4};
+        int[] arr2 = new int[]{6, 7, 8, 9};
+
+        aarsSortUp(arr1, arr2);
+    }
+
+    public static void aarsSortUp(int[] array1, int[] array2) {
+
+        int[] arraynew = new int[array1.length + array2.length];
+
+        for (int i = 0, j = 0; i < array1.length; i++, j += 2) {
+            arraynew[j] = array1[i];
+            arraynew[j + 1] = array2[i];
+        }
+        for (int j : arraynew) {
+            System.out.print(j + "   ");
+        }
+    }
+}
+
+
+       /* int[] firstArray = {1, 2, 3, 4};
         int[] secondArray = {6, 7, 8, 9};
         arrayParallelSummarizer(firstArray, secondArray);
     }
@@ -33,3 +55,4 @@ public class Array_task19_51 {
         }
     }
 }
+*/

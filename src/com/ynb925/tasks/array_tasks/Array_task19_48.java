@@ -7,7 +7,27 @@ package com.ynb925.tasks.array_tasks;
  */
 public class Array_task19_48 {
     public static void main(String[] args) {
-        int[] firstArray = {1, 4, 3, 2};
+
+        int[] arr1 = new int[]{1, 4, 3, 2};
+        int[] arr2 = new int[]{5, 1, 2, 6, 4, 2, 9, 3};
+
+        System.out.println(arrEqualNums(arr1, arr2));
+    }
+
+    private static boolean arrEqualNums(int[] array1, int[] array2) {
+        first:
+        for (int k : array1) {
+            for (int i : array2) {
+                if (k == i)
+                    continue first;
+            }
+            return false;
+        }
+        return true;
+    }
+}
+
+/*        int[] firstArray = {1, 4, 3, 2};
         int[] secondArray = {5, 8, 1, 6, 4, 2, 9, 3};
 
         int[] thirdArray = {5, 1, 8, 3, 99};
@@ -41,5 +61,5 @@ public class Array_task19_48 {
         }
         return false;
     }
-}
+}*/
 
