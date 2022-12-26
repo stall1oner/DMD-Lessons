@@ -1,4 +1,4 @@
-package com.dmddev.lessons;
+package com.dmddev.lessons.com.dmdev;
 
 public class dv_task5 {
 

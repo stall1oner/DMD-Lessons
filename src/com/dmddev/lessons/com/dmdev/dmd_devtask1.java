@@ -1,4 +1,4 @@
-package com.dmddev.lessons;
+package com.dmddev.lessons.com.dmdev;
 
 public class dmd_devtask1 {
     public static void main(String[] args) {
