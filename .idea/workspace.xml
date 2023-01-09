@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bfff935-9f23-4b4a-ab0a-24c017bc230c" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0605/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0613/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/Lesson7_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/Lesson7_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/Nastya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/Nastya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/RecursionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/RecursionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmd_devtask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmd_devtask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmddevv_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmddevv_task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_lesson5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_lesson5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_lesson6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_lesson6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dmdev_task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dmdev_task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dv_task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dv_task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dv_task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dv_task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dv_task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dv_task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/dvtask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/dvtask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmddev/lessons/switch_lessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmddev/lessons/com/dmdev/switch_lessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Sol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/jdk13/task06/task0634/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0511/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0516/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0517/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task05/task0519/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task09/task0906/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +46,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -63,13 +87,13 @@
       <recent name="year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.javarush.task.pro.task06.task0613.Solution">
-    <configuration name="com.javarush.task.jdk13.task02.task0218.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.jdk13.task02.task0218.Solution" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Array_task19_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_45" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.jdk13.task02.task0218.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task06.task0611.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0611.Solution" />
+    <configuration name="Array_task19_47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_47" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0611.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task06.task0612.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0612.Solution" />
+    <configuration name="Array_task19_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_48" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0612.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.pro.task06.task0613.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0613.Solution" />
+    <configuration name="Array_task19_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ynb925.tasks.array_tasks.Array_task19_51" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0613.*" />
+          <option name="PATTERN" value="com.ynb925.tasks.array_tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.javarush.task.task01.task0136.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task01.task0136.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmddev.lessons.Solution" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task01.task0136.*" />
+          <option name="PATTERN" value="com.dmddev.lessons.com.dmdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.javarush.task.pro.task06.task0613.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task06.task0612.Solution" />
-        <item itemvalue="Application.com.javarush.task.pro.task06.task0611.Solution" />
-        <item itemvalue="Application.com.javarush.task.task01.task0136.Solution" />
-        <item itemvalue="Application.com.javarush.task.jdk13.task02.task0218.Solution" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Array_task19_51" />
+        <item itemvalue="Application.Array_task19_48" />
+        <item itemvalue="Application.Array_task19_47" />
+        <item itemvalue="Application.Array_task19_45" />
       </list>
     </recent_temporary>
   </component>
@@ -147,27 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667670557287</updated>
-    </task>
-    <task id="LOCAL-00019" summary="commit">
-      <created>1667778580279</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1667778580279</updated>
-    </task>
-    <task id="LOCAL-00020" summary="commit">
-      <created>1667781413743</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1667781413743</updated>
-    </task>
-    <task id="LOCAL-00021" summary="commit">
-      <created>1667781484108</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1667781484108</updated>
     </task>
     <task id="LOCAL-00022" summary="commit">
       <created>1667832126527</created>
@@ -485,13 +488,34 @@
       <updated>1671656270352</updated>
     </task>
     <task id="LOCAL-00067" summary="commit">
-      <created>1671713552909</created>
+      <created>1671661260154</created>
       <option name="number" value="00067" />
       <option name="presentableId" value="LOCAL-00067" />
       <option name="project" value="LOCAL" />
-      <updated>1671713552909</updated>
+      <updated>1671661260154</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="commit">
+      <created>1671713629459</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1671713629459</updated>
+    </task>
+    <task id="LOCAL-00069" summary="commit">
+      <created>1671713658871</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1671713658876</updated>
+    </task>
+    <task id="LOCAL-00070" summary="commit">
+      <created>1671967683196</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1671967683196</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,6 +571,20 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/dmddev/lessons/Solution.java</url>
+          <line>9</line>
+          <properties class="com.dmddev.lessons.Solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dmddev/lessons/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package com.dmddev.lessons;
+package com.dmddev.lessons.com.dmdev;
 
 public class Lesson7_array {
     public static void main(String[] args) {
